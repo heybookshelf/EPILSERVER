@@ -1,0 +1,12 @@
+{
+  "name": "EPIL SERVER",
+  "engines": [
+    "epil-engine"
+  ],
+  "skins": [
+    "epil-skin"
+  ],
+  "levels": [
+    "tutorial"
+  ]
+}
